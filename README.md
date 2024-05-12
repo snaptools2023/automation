@@ -8,7 +8,7 @@ These scripts add keyboard bindings to the Snap UI to make routine tasks easier.
  * Alt-E to end the game/click next after every match/game.  E for "End this match/game"
  * Alt-A to click the play button on the main screen.  A for "plAy"
  * Alt-S to retreat/concede.  S for "Stop playing this round".
- * Alt_Q to mute the opponent.  Q for "Quiet".
+ * Alt-Q to mute the opponent.  Q for "Quiet".
 
 Alt-Q is the best part of this script.  If you don't use anything else, that is the best part.  Simplest way to auto mute opponents.
 

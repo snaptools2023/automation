@@ -49,7 +49,19 @@ StepDelayMs := 100
 {
 	Click(FromLeft(1730), FromTop(100))
 	Sleep(GeneralDelayMs)
-	Click(FromLeft(1550), FromTop(400))
+	Click(FromLeft(1650), FromTop(400))
+	Sleep(StepDelayMs)
+	Click(FromLeft(1730), FromTop(100))
+	Sleep(StepDelayMs)
+	Return
+}
+
+; alt-v to view profile.  "View" // this one is harder to reach and leaves the underlying window open :(
+!V::
+{
+	Click(FromLeft(1730), FromTop(100))
+	Sleep(GeneralDelayMs)
+	Click(FromLeft(1550), FromTop(450))
 	Sleep(StepDelayMs)
 	Click(FromLeft(1730), FromTop(100))
 	Sleep(StepDelayMs)

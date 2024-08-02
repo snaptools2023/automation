@@ -9,6 +9,7 @@ These scripts add keyboard bindings to the Snap UI to make routine tasks easier.
  * Alt-A to click the play button on the main screen.  A for "plAy"
  * Alt-S to retreat/concede.  S for "Stop playing this round".
  * Alt-Q to mute the opponent.  Q for "Quiet".
+ * Alt_V to view the opponent profile.  V for "View"
 
 Alt-Q is the best part of this script.  If you don't use anything else, that is the best part.  Simplest way to auto mute opponents.
 
@@ -51,3 +52,5 @@ Use at your own risk.
 
  here have been [attempts](https://www.reddit.com/r/MarvelSnap/comments/1229qk6/windows_pc_ahk_script_for_minor_qol_improvements/) at adding [scripts](https://www.reddit.com/r/MarvelSnap/comments/189q357/little_trick_to_bind_any_keyboard_or_mouse_key_to/) to snap in the [past](https://www.reddit.com/r/MarvelSnap/comments/10otkc3/i_made_an_agatha_macro_for_fun_i_sit_and_watch_it/).  This repository adds 2 new [autohotkey](https://www.autohotkey.com/) scripts to add key bindings to some frequently used features in Snap.  
 
+2024-00-00 - Initial version
+2024-08-01 - Updated because UI moved because of Profile button.
